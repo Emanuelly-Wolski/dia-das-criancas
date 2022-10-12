@@ -27,4 +27,7 @@
     .cartao .informacoes .vida {
       font-size: 14px;
     }
+     .cabecalho .titulo{
+      text-align: center;
+    }
   }
